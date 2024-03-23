@@ -18,7 +18,7 @@
   "redirects": [
     {
       "source": "/-/:__PATH*",
-      "destination": "https://pximg.wjghj.cn/:__PATH"
+      "destination": "https://pximg.xiaohan-kaka.gay/:__PATH"
     }
   ],
   "headers": []
